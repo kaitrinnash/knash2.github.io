@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<title>Kaitrin Page</title>
+<body>
+
+<h1>Kaitrin Heading</h1>
+<p>Kaitrin paragraph</p>
+
+
+
+</body>
+</html>
